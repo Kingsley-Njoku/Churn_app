@@ -5,4 +5,5 @@ joblib
 category_encoders
 openpyxl
 shap
+xgboost
 matplotlib
